@@ -1,6 +1,3 @@
-Aquí está tu README traducido al inglés:
-
----
 
 # 📋 Project Management REST API
 RESTful API developed with **.NET 8** for project and task management. This solution implements a layered architecture (N-Layer Architecture) focused on separation of concerns, scalability, and robust error handling.
